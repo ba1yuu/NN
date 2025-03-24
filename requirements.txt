@@ -2,4 +2,5 @@ streamlit
 yfinance
 pandas
 FinMind
+tqdm
 streamlit-sortables
